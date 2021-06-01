@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pennstagram</string>
+    <string name="action_settings">Settings</string>
+    <string name="delete">Delete</string>
+    <string name="post">Post</string>
+    <string name="description_placeholder">Description here</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="take_picture">Take Picture</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "169934645113",
+    "firebase_url": "https://pennstagram-bc211.firebaseio.com",
+    "project_id": "pennstagram-bc211",
+    "storage_bucket": "pennstagram-bc211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169934645113:android:9b7719814cf31ce5c3b1a8",
+        "android_client_info": {
+          "package_name": "com.example.pennstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169934645113-r27qqdadkpunhkn0lf92m2j4eksld4bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSe8gPYP9BjcfbEVlAuEgYLkR75i6gcvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169934645113-r27qqdadkpunhkn0lf92m2j4eksld4bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

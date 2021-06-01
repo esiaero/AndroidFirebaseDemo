@@ -1,0 +1,12 @@
+10-31-20: Stack Overflow, to import svg                          https://stackoverflow.com/questions/46456867/converting-svg-file-to-android-vector-drawable-xml-while-keeping-the-group-struc
+10-31-20: Stack Overflow, changing icon size                     https://stackoverflow.com/questions/27484126/adjust-icon-size-of-floating-action-button-fab
+10-31-20: Website Online, finding a font                         https://www.fontspace.com/category/fancy
+10-31-20: Stack Overflow, avoiding RelativeLayout overlap        https://stackoverflow.com/questions/17968344/how-to-avoid-overlap-view-in-relative-layout-in-android
+10-31-20: Stack Overflow, input type settings                    https://stackoverflow.com/questions/2712761/edittext-inputtype-values-xml
+11-1-20:  Medium searching for better way to remove post         https://medium.com/@haydar_ai/better-way-to-get-the-item-position-in-androids-recyclerview-820667d435d4
+11-1-20:  Stack Overflow, searching for ways to remove post      https://stackoverflow.com/questions/26076965/android-recyclerview-addition-removal-of-items
+11-1-20:  Github, Debugging Picasso                              https://github.com/square/picasso/issues/1896
+                                                                 https://github.com/square/picasso/issues/2022#issuecomment-435659477
+11-1-20:  Stack Overflow, figuring out how to get the date       https://stackoverflow.com/questions/47006254/how-to-get-current-local-date-and-time-in-kotlin
+                                                                 https://www.baeldung.com/java-datetimeformatter
+11-1-20:  Stack Overflow, debugging API specific issue           https://stackoverflow.com/questions/17540737/java-io-filenotfoundexception-open-failed-eacces-permission-denied-on-device
